@@ -1,3 +1,6 @@
+# Objective 
+## To build a responsive and live crypto tracker using React JS. 
+
 # Deployment link 
 https://crypto-tracker-ayu.netlify.app/
 
