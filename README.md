@@ -1,4 +1,4 @@
-# deployment link 
+# Deployment link 
 https://crypto-tracker-ayu.netlify.app/
 
 # Getting Started with Create React App
